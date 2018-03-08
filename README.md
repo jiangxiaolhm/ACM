@@ -1,3 +1,3 @@
-# ACM Programming Contest Problems and Answers
+# Programming Contest Problems and Solutions
 
-## This repository is used to store some of my accepted answers for the programming contest problems.
+## Collection of my solutions for some of the problems found at UVa Online Judge or other online judge platforms.
